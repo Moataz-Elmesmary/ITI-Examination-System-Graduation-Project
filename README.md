@@ -67,6 +67,8 @@ graph TB
     style H fill:#5f27cd,stroke:#fff,stroke-width:3px,color:#fff
     style I fill:#00d2d3,stroke:#fff,stroke-width:3px,color:#fff
 ```
+![ERD](https://github.com/user-attachments/assets/ee599dfe-b2c9-4b33-ba93-9557afbca334)
+
 
 ### 🎯 Our Complete Technology Stack
 
@@ -84,6 +86,9 @@ graph TB
 | 🎨 **Tableau Desktop** | Tableau | 🔄 In Progress | Advanced Data Visualizations |
 | 🌐 **Website Interface** | ASP.NET Core / React | 📋 Planned | Modern Web Application |
 </div>
+
+![Mapping](https://github.com/user-attachments/assets/7e364a96-3a64-4fb3-9eb2-6aae728fd6c6)
+
 
 ---
 
