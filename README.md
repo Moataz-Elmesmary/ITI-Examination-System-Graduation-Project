@@ -89,10 +89,6 @@ graph TB
 
 ## 📊 Database Schema Deep Dive
 
-<div align="center">
-<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="300"/>
-</div>
-
 ### 🗂️ Core Tables Breakdown
 
 <details>
@@ -134,10 +130,6 @@ graph TB
 
 ## ⚙️ Powerful Database Procedures
 
-<div align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
-</div>
-
 ### 🛠️ Core System Functions
 
 <details>
@@ -170,10 +162,6 @@ EXEC dbo.getresult @StudentID = 1001, @ExamID = 5001
 ---
 
 ## 🗺️ Project Roadmap
-
-<div align="center">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
-</div>
 
 ### Phase Progress Tracker
 
