@@ -208,7 +208,7 @@ Phase 6: Application Dev        ████░░░░░░░░░░░░
 <img src="https://img.shields.io/badge/GitHub-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <br />
-<a href="https://linkedin.com/in/moataz-elmesmary">
+<a href="https://www.linkedin.com/in/moatazelmesmary/">
 <img src="https://img.shields.io/badge/LinkedIn-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </td>
@@ -229,7 +229,7 @@ Phase 6: Application Dev        ████░░░░░░░░░░░░
 <img src="https://img.shields.io/badge/GitHub-4ECDC4?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <br />
-<a href="https://linkedin.com/in/omar-elqersh">
+<a href="https://www.linkedin.com/in/omar-elqersh/">
 <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </td>
@@ -250,7 +250,7 @@ Phase 6: Application Dev        ████░░░░░░░░░░░░
 <img src="https://img.shields.io/badge/GitHub-45B7D1?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <br />
-<a href="https://linkedin.com/in/ahmed-mekky">
+<a href="https://www.linkedin.com/in/ahmed-m-mekky/">
 <img src="https://img.shields.io/badge/LinkedIn-45B7D1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </td>
@@ -292,7 +292,7 @@ Phase 6: Application Dev        ████░░░░░░░░░░░░
 <img src="https://img.shields.io/badge/GitHub-FECA57?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <br />
-<a href="https://linkedin.com/in/seif-salah">
+<a href="https://www.linkedin.com/in/seifsalah036/">
 <img src="https://img.shields.io/badge/LinkedIn-FECA57?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </td>
