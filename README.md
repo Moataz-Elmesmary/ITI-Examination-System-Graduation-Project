@@ -51,11 +51,11 @@ graph TB
     A --> C[🎨 Tableau Visualizations]
     B --> D[📋 SSRS Reports]
     C --> D
-    D --> E[🏢 Data Warehouse DWH]
-    E --> F[🔄 SSIS Integration]
+    D --> E[🔄 SSIS Integration]
+    E --> F[🏢 Data Warehouse DWH]
     F --> G[⚙️ Stored Procedures]
     G --> H[🗄️ Database Creation]
-    H --> I[🗺️ ERD Mapping]
+    H --> I[🗺️ ERD & Mapping]
     
     style A fill:#ff6b6b,stroke:#fff,stroke-width:3px,color:#fff
     style B fill:#4ecdc4,stroke:#fff,stroke-width:3px,color:#fff
@@ -294,7 +294,7 @@ Phase 6: Application Dev        ████░░░░░░░░░░░░
 </tr>
 </table>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Together We Code, Together We Conquer!** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF6B6B&center=true&width=435&lines=Together+We+Code%2C+Together+We+Conquer!" width="300">
 
 </div>
 
