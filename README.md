@@ -188,8 +188,6 @@ Phase 6: Application Dev        ████░░░░░░░░░░░░
 ## 🌟 Meet Our Legendary Team
 
 <div align="center">
-<img src="https://media.giphy.com/media/l1J9FiGxR61OcF2mI/giphy.gif" width="400"/>
-
 <h2>🔥 The Code Warriors 🔥</h2>
 
 <table>
@@ -300,7 +298,6 @@ Phase 6: Application Dev        ████░░░░░░░░░░░░
 
 </div>
 
----
 
 <div align="center">
 
