@@ -184,7 +184,6 @@ Phase 6: Application Dev        ████░░░░░░░░░░░░
 - 🌐 **Web Application** - Modern web interface
 
 ---
-
 ## 🌟 Meet Our Legendary Team
 
 <div align="center">
@@ -192,9 +191,11 @@ Phase 6: Application Dev        ████░░░░░░░░░░░░
 
 <table>
 <tr>
+
+<!-- Moataz Elmesmary -->
 <td align="center">
 <div style="position: relative;">
-<img src="https://avatars.githubusercontent.com/u/1?v=4" width="120px" style="border-radius: 50%; border: 4px solid #ff6b6b; box-shadow: 0 0 20px rgba(255, 107, 107, 0.5);"/>
+<img src="https://github.com/user-attachments/assets/6a71e465-798f-4f07-8df9-aaec157664e6" width="120px" height="120px" style="border-radius: 50%; border: 4px solid #ff6b6b; box-shadow: 0 0 20px rgba(255, 107, 107, 0.5); object-fit: cover; display: block; margin: auto;"/>
 <br />
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 <br />
@@ -212,9 +213,10 @@ Phase 6: Application Dev        ████░░░░░░░░░░░░
 </a>
 </td>
 
+<!-- Omar Elqersh -->
 <td align="center">
 <div style="position: relative;">
-<img src="https://avatars.githubusercontent.com/u/2?v=4" width="120px" style="border-radius: 50%; border: 4px solid #4ecdc4; box-shadow: 0 0 20px rgba(78, 205, 196, 0.5);"/>
+<img src="https://avatars.githubusercontent.com/u/2?v=4" width="120px" height="120px" style="border-radius: 50%; border: 4px solid #4ecdc4; box-shadow: 0 0 20px rgba(78, 205, 196, 0.5); object-fit: cover; display: block; margin: auto;"/>
 <br />
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30"/>
 <br />
@@ -232,9 +234,10 @@ Phase 6: Application Dev        ████░░░░░░░░░░░░
 </a>
 </td>
 
+<!-- Ahmed Mekky -->
 <td align="center">
 <div style="position: relative;">
-<img src="https://avatars.githubusercontent.com/u/3?v=4" width="120px" style="border-radius: 50%; border: 4px solid #45b7d1; box-shadow: 0 0 20px rgba(69, 183, 209, 0.5);"/>
+<img src="https://avatars.githubusercontent.com/u/3?v=4" width="120px" height="120px" style="border-radius: 50%; border: 4px solid #45b7d1; box-shadow: 0 0 20px rgba(69, 183, 209, 0.5); object-fit: cover; display: block; margin: auto;"/>
 <br />
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"/>
 <br />
@@ -252,9 +255,10 @@ Phase 6: Application Dev        ████░░░░░░░░░░░░
 </a>
 </td>
 
+<!-- Abdelrahman Hisham -->
 <td align="center">
 <div style="position: relative;">
-<img src="https://avatars.githubusercontent.com/u/4?v=4" width="120px" style="border-radius: 50%; border: 4px solid #96ceb4; box-shadow: 0 0 20px rgba(150, 206, 180, 0.5);"/>
+<img src="https://avatars.githubusercontent.com/u/4?v=4" width="120px" height="120px" style="border-radius: 50%; border: 4px solid #96ceb4; box-shadow: 0 0 20px rgba(150, 206, 180, 0.5); object-fit: cover; display: block; margin: auto;"/>
 <br />
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30"/>
 <br />
@@ -272,9 +276,10 @@ Phase 6: Application Dev        ████░░░░░░░░░░░░
 </a>
 </td>
 
+<!-- Seif Salah -->
 <td align="center">
 <div style="position: relative;">
-<img src="https://avatars.githubusercontent.com/u/5?v=4" width="120px" style="border-radius: 50%; border: 4px solid #feca57; box-shadow: 0 0 20px rgba(254, 202, 87, 0.5);"/>
+<img src="https://avatars.githubusercontent.com/u/5?v=4" width="120px" height="120px" style="border-radius: 50%; border: 4px solid #feca57; box-shadow: 0 0 20px rgba(254, 202, 87, 0.5); object-fit: cover; display: block; margin: auto;"/>
 <br />
 <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="30"/>
 <br />
@@ -291,19 +296,20 @@ Phase 6: Application Dev        ████░░░░░░░░░░░░
 <img src="https://img.shields.io/badge/LinkedIn-FECA57?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </td>
+
 </tr>
 </table>
 
+<br />
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF6B6B&center=true&width=435&lines=Together+We+Code%2C+Together+We+Conquer!" width="300">
 
-</div>
-
-
-<div align="center">
+<br />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🎉 Thank You for Visiting! 
+### 🎉 Thank You for Visiting!
+
 
 <img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" width="200"/>
 
