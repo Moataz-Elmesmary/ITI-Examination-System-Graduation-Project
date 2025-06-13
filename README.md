@@ -201,7 +201,7 @@ Phase 6: Application Dev        ████░░░░░░░░░░░░
 <img src="https://img.shields.io/badge/GitHub-96CEB4?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <br />
-<a href="https://linkedin.com/in/abdelrahman-hisham">
+<a href="https://www.linkedin.com/in/abdelrahmanelshimy/">
 <img src="https://img.shields.io/badge/LinkedIn-96CEB4?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </td>
