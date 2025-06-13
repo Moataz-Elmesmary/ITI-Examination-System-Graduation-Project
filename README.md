@@ -1,12 +1,4 @@
 <div align="center">
-
-██╗████████╗██╗    ███████╗██╗  ██╗ █████╗ ███╗   ███╗    ███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗
-██║╚══██╔══╝██║    ██╔════╝╚██╗██╔╝██╔══██╗████╗ ████║    ██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║
-██║   ██║   ██║    █████╗   ╚███╔╝ ███████║██╔████╔██║    ███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║
-██║   ██║   ██║    ██╔══╝   ██╔██╗ ██╔══██║██║╚██╔╝██║    ╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║
-██║   ██║   ██║    ███████╗██╔╝ ██╗██║  ██║██║ ╚═╝ ██║    ███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║
-╚═╝   ╚═╝   ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝    ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 
 <h1>🚀 ITI Examination & Business Intelligence System</h1>
@@ -44,14 +36,6 @@
 
 This project represents a **revolutionary end-to-end solution** designed to transform how the Information Technology Institute (ITI) manages its academic operations. We're not just building a database - we're crafting a complete ecosystem that handles everything from student registration to advanced business intelligence.
 
-### 🌈 What Makes Us Special?
-
-- 🔥 **Full-Stack Excellence**: From database to dashboards
-- 🚀 **Scalable Architecture**: Built to grow with your needs  
-- 🎨 **Beautiful Visualizations**: Data that tells stories
-- 🛡️ **Enterprise Security**: Your data is safe with us
-- ⚡ **Lightning Fast**: Optimized for performance
-
 ---
 
 ## 🏗️ System Architecture & ERD
@@ -59,19 +43,32 @@ This project represents a **revolutionary end-to-end solution** designed to tran
 <div align="center">
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300"/>
 
-### Our Multi-Layered Architecture
-
-```mermaid
-graph TB
-    A[🎨 Presentation Layer] --> B[💼 Business Logic Layer]
-    B --> C[🗄️ Data Access Layer]
-    C --> D[📊 OLTP Database]
-    D --> E[🔄 ETL Pipeline]
-    E --> F[🏢 Data Warehouse]
-    F --> G[📈 BI & Analytics]
-```
-
-<p><em>🎨 A beautifully architected system from OLTP to OLAP</em></p>
+🏗️ System Architecture & ERD
+<div align="center">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300"/>
+Our Multi-Layered Architecture
+mermaidgraph TB
+    A[🌐 Website Interface] --> B[📊 Power BI Dashboards]
+    A --> C[🎨 Tableau Visualizations]
+    B --> D[📋 SSRS Reports]
+    C --> D
+    D --> E[🏢 Data Warehouse DWH]
+    E --> F[🔄 SSIS Integration]
+    F --> G[⚙️ Stored Procedures]
+    G --> H[🗄️ Database Creation]
+    H --> I[🗺️ ERD Mapping]
+    
+    style A fill:#ff6b6b,stroke:#fff,stroke-width:3px,color:#fff
+    style B fill:#4ecdc4,stroke:#fff,stroke-width:3px,color:#fff
+    style C fill:#45b7d1,stroke:#fff,stroke-width:3px,color:#fff
+    style D fill:#96ceb4,stroke:#fff,stroke-width:3px,color:#fff
+    style E fill:#feca57,stroke:#fff,stroke-width:3px,color:#fff
+    style F fill:#ff9ff3,stroke:#fff,stroke-width:3px,color:#fff
+    style G fill:#54a0ff,stroke:#fff,stroke-width:3px,color:#fff
+    style H fill:#5f27cd,stroke:#fff,stroke-width:3px,color:#fff
+    style I fill:#00d2d3,stroke:#fff,stroke-width:3px,color:#fff
+🎯 Our Complete Technology Stack
+LayerTechnologyStatusDescription🗺️ ERD DesignLucidchart, Draw.io✅ CompleteEntity Relationship Diagram & Database Design🗺️ MappingSQL Server✅ CompleteTable Relations & Foreign Key Constraints🏗️ Database CreationT-SQL Scripts✅ CompleteFull Database Implementation with 25+ Tables⚙️ Stored ProceduresT-SQL✅ Complete50+ Procedures for CRUD & Business Logic🏢 Data WarehouseSQL Server🔄 In ProgressStar Schema Design & Implementation🔄 SSIS IntegrationSQL Server Integration Services🔄 In ProgressETL Pipelines & Data Migration📋 SSRS ReportsSQL Server Reporting Services🔄 In Progress15+ Professional Reports📊 20+ DashboardsPower BI & Tableau🔄 In ProgressInteractive Business Intelligence📈 Power BIMicrosoft Power BI🔄 In ProgressExecutive & Operational Dashboards🎨 Tableau DesktopTableau🔄 In ProgressAdvanced Data Visualizations🌐 Website InterfaceASP.NET Core / React📋 PlannedModern Web Application
 </div>
 
 ---
