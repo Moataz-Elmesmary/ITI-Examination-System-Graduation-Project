@@ -198,9 +198,9 @@ Phase 6: Application Dev        ████░░░░░░░░░░░░
 <br />
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 <br />
-<sub><b>🚀 Moataz Elmesmary</b></sub>
+<sub><b>🔥 Moataz Elmesmary</b></sub>
 <br />
-<sub>Database Architect</sub>
+<sub>BI Dev & Data Analyst</sub>
 </div>
 <br />
 <a href="https://github.com/moataz-elmesmary">
@@ -220,7 +220,7 @@ Phase 6: Application Dev        ████░░░░░░░░░░░░
 <br />
 <sub><b>⚡ Omar Elqersh</b></sub>
 <br />
-<sub>Backend Wizard</sub>
+<sub>BI Dev & Data Analyst</sub>
 </div>
 <br />
 <a href="https://github.com/omar-elqersh">
@@ -240,7 +240,7 @@ Phase 6: Application Dev        ████░░░░░░░░░░░░
 <br />
 <sub><b>💎 Ahmed Mekky</b></sub>
 <br />
-<sub>BI Specialist</sub>
+<sub>BI Dev & Data Analyst</sub>
 </div>
 <br />
 <a href="https://github.com/ahmed-mekky">
@@ -260,7 +260,7 @@ Phase 6: Application Dev        ████░░░░░░░░░░░░
 <br />
 <sub><b>🎯 Abdelrahman Hisham</b></sub>
 <br />
-<sub>Full-Stack Dev</sub>
+<sub>BI Dev & Data Analyst</sub>
 </div>
 <br />
 <a href="https://github.com/abdelrahman-hisham">
@@ -280,7 +280,7 @@ Phase 6: Application Dev        ████░░░░░░░░░░░░
 <br />
 <sub><b>🌟 Seif Salah</b></sub>
 <br />
-<sub>Data Analyst</sub>
+<sub>BI Dev & Data Analyst</sub>
 </div>
 <br />
 <a href="https://github.com/seif-salah">
