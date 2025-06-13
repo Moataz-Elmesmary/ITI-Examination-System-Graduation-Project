@@ -1,2 +1,320 @@
-# ITI-Examination-System-Graduation-Project
-ITI Power BI Track GP
+<div align="center">
+
+██╗████████╗██╗    ███████╗██╗  ██╗ █████╗ ███╗   ███╗    ███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗
+██║╚══██╔══╝██║    ██╔════╝╚██╗██╔╝██╔══██╗████╗ ████║    ██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║
+██║   ██║   ██║    █████╗   ╚███╔╝ ███████║██╔████╔██║    ███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║
+██║   ██║   ██║    ██╔══╝   ██╔██╗ ██╔══██║██║╚██╔╝██║    ╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║
+██║   ██║   ██║    ███████╗██╔╝ ██╗██║  ██║██║ ╚═╝ ██║    ███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║
+╚═╝   ╚═╝   ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝    ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+
+<h1>🚀 ITI Examination & Business Intelligence System</h1>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&width=600&lines=Comprehensive+Database+Solution;Advanced+Business+Intelligence;Full-Stack+Examination+System;Data+Warehouse+%26+ETL+Pipeline" alt="Typing SVG" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/T--SQL-00758F?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="T-SQL"/>
+  <img src="https://img.shields.io/badge/SSIS-FF6C37?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SSIS"/>
+  <img src="https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SSRS"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Status-🔥_Active_Development-ff6b6b?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/Team-5_Developers-4ecdc4?style=for-the-badge" alt="Team"/>
+  <img src="https://img.shields.io/badge/Progress-75%25-45b7d1?style=for-the-badge" alt="Progress"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+## 🎯 Project Overview
+
+<div align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+</div>
+
+> **Building the Future of Educational Management** 🌟
+
+This project represents a **revolutionary end-to-end solution** designed to transform how the Information Technology Institute (ITI) manages its academic operations. We're not just building a database - we're crafting a complete ecosystem that handles everything from student registration to advanced business intelligence.
+
+### 🌈 What Makes Us Special?
+
+- 🔥 **Full-Stack Excellence**: From database to dashboards
+- 🚀 **Scalable Architecture**: Built to grow with your needs  
+- 🎨 **Beautiful Visualizations**: Data that tells stories
+- 🛡️ **Enterprise Security**: Your data is safe with us
+- ⚡ **Lightning Fast**: Optimized for performance
+
+---
+
+## 🏗️ System Architecture & ERD
+
+<div align="center">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300"/>
+
+### Our Multi-Layered Architecture
+
+```mermaid
+graph TB
+    A[🎨 Presentation Layer] --> B[💼 Business Logic Layer]
+    B --> C[🗄️ Data Access Layer]
+    C --> D[📊 OLTP Database]
+    D --> E[🔄 ETL Pipeline]
+    E --> F[🏢 Data Warehouse]
+    F --> G[📈 BI & Analytics]
+```
+
+<p><em>🎨 A beautifully architected system from OLTP to OLAP</em></p>
+</div>
+
+---
+
+## 📊 Database Schema Deep Dive
+
+<div align="center">
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="300"/>
+</div>
+
+### 🗂️ Core Tables Breakdown
+
+<details>
+<summary>🎓 <strong>Student Management Tables</strong></summary>
+
+| Table | Key Fields | Description |
+|-------|------------|-------------|
+| **👨‍🎓 Student** | `St_ID`, `St_Fname`, `St_Lname`, `Email` | Complete student profiles with validation |
+| **📚 Course** | `Crs_ID`, `Crs_Name`, `Duration` | Course catalog and details |
+| **🏃‍♂️ Track** | `Track_ID`, `Track_Name`, `SuperV_Inst` | Academic tracks with supervision |
+| **🏢 Branch** | `Branch_ID`, `Branch_Name`, `Location` | Institute branch management |
+
+</details>
+
+<details>
+<summary>👨‍🏫 <strong>Instructor & Teaching Tables</strong></summary>
+
+| Table | Key Fields | Description |
+|-------|------------|-------------|
+| **👨‍🏫 Instructor** | `Inst_ID`, `Inst_Name`, `Salary`, `Degree` | Faculty management system |
+| **🔗 Inst_Crs** | `Inst_ID`, `Crs_ID` | Instructor-Course assignments |
+| **📅 Inst_Events** | `Inst_ID`, `Event_ID` | Event participation tracking |
+
+</details>
+
+<details>
+<summary>📝 <strong>Examination System Tables</strong></summary>
+
+| Table | Key Fields | Description |
+|-------|------------|-------------|
+| **📋 Exam** | `Exam_ID`, `Exam_Type`, `Start_Time` | Comprehensive exam management |
+| **❓ Questions** | `Ques_ID`, `Question`, `Crs_ID` | Question bank with categorization |
+| **✅ St_Answer** | `St_ID`, `Ques_ID`, `St_Answer` | Student response tracking |
+| **🎯 St_Grade** | `St_ID`, `Exam_ID`, `Grade` | Grade management system |
+
+</details>
+
+---
+
+## ⚙️ Powerful Database Procedures
+
+<div align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+</div>
+
+### 🛠️ Core System Functions
+
+<details>
+<summary>🎲 <strong>Exam Generation System</strong></summary>
+
+```sql
+-- 🎯 Smart Exam Generation
+EXEC dbo.genrate_exam @CourseID = 101, @ExamType = 'Final'
+
+-- 📝 Student Exam Assignment  
+EXEC dbo.assign_Exam @StudentID = 1001, @ExamID = 5001
+
+-- 📊 Grade Calculation
+EXEC dbo.getresult @StudentID = 1001, @ExamID = 5001
+```
+
+</details>
+
+<details>
+<summary>📈 <strong>Advanced Reporting Suite</strong></summary>
+
+- 📚 **Course Topics Report**: `GetTopicsByCourse` ✅
+- 👥 **Students by Track**: Advanced filtering and sorting 🔄
+- 🎓 **Student Grade Analytics**: Complete academic history 🔄  
+- 👨‍🏫 **Instructor Workload**: Teaching load analysis 🔄
+- 📋 **Student Answer Sheet**: Detailed exam responses 🔄
+
+</details>
+
+---
+
+## 🗺️ Project Roadmap
+
+<div align="center">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
+</div>
+
+### Phase Progress Tracker
+
+```
+Phase 1: Database Design        ████████████████████ 100% ✅
+Phase 2: Implementation         ████████████████████ 100% ✅  
+Phase 3: Data Population        ████████████████████ 100% ✅
+Phase 4: Core Procedures        ████████████████████ 100% ✅
+Phase 5: BI & Reporting         ████████████░░░░░░░░  75% 🔄
+Phase 6: Application Dev        ████░░░░░░░░░░░░░░░░  25% 🔄
+```
+
+### 🚀 Upcoming Features
+
+- 🏢 **Data Warehouse Design** - Star schema implementation
+- 🔄 **SSIS ETL Packages** - Automated data pipelines  
+- 📊 **Power BI Dashboards** - 20+ interactive reports
+- 🎨 **Tableau Visualizations** - Executive dashboards
+- 💻 **Desktop Application** - C# WinForms interface
+- 🌐 **Web Application** - Modern web interface
+
+---
+
+## 🌟 Meet Our Legendary Team
+
+<div align="center">
+<img src="https://media.giphy.com/media/l1J9FiGxR61OcF2mI/giphy.gif" width="400"/>
+
+<h2>🔥 The Code Warriors 🔥</h2>
+
+<table>
+<tr>
+<td align="center">
+<div style="position: relative;">
+<img src="https://avatars.githubusercontent.com/u/1?v=4" width="120px" style="border-radius: 50%; border: 4px solid #ff6b6b; box-shadow: 0 0 20px rgba(255, 107, 107, 0.5);"/>
+<br />
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
+<br />
+<sub><b>🚀 Moataz Elmesmary</b></sub>
+<br />
+<sub>Database Architect</sub>
+</div>
+<br />
+<a href="https://github.com/moataz-elmesmary">
+<img src="https://img.shields.io/badge/GitHub-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br />
+<a href="https://linkedin.com/in/moataz-elmesmary">
+<img src="https://img.shields.io/badge/LinkedIn-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</td>
+
+<td align="center">
+<div style="position: relative;">
+<img src="https://avatars.githubusercontent.com/u/2?v=4" width="120px" style="border-radius: 50%; border: 4px solid #4ecdc4; box-shadow: 0 0 20px rgba(78, 205, 196, 0.5);"/>
+<br />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30"/>
+<br />
+<sub><b>⚡ Omar Elqersh</b></sub>
+<br />
+<sub>Backend Wizard</sub>
+</div>
+<br />
+<a href="https://github.com/omar-elqersh">
+<img src="https://img.shields.io/badge/GitHub-4ECDC4?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br />
+<a href="https://linkedin.com/in/omar-elqersh">
+<img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</td>
+
+<td align="center">
+<div style="position: relative;">
+<img src="https://avatars.githubusercontent.com/u/3?v=4" width="120px" style="border-radius: 50%; border: 4px solid #45b7d1; box-shadow: 0 0 20px rgba(69, 183, 209, 0.5);"/>
+<br />
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"/>
+<br />
+<sub><b>💎 Ahmed Mekky</b></sub>
+<br />
+<sub>BI Specialist</sub>
+</div>
+<br />
+<a href="https://github.com/ahmed-mekky">
+<img src="https://img.shields.io/badge/GitHub-45B7D1?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br />
+<a href="https://linkedin.com/in/ahmed-mekky">
+<img src="https://img.shields.io/badge/LinkedIn-45B7D1?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</td>
+
+<td align="center">
+<div style="position: relative;">
+<img src="https://avatars.githubusercontent.com/u/4?v=4" width="120px" style="border-radius: 50%; border: 4px solid #96ceb4; box-shadow: 0 0 20px rgba(150, 206, 180, 0.5);"/>
+<br />
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30"/>
+<br />
+<sub><b>🎯 Abdelrahman Hisham</b></sub>
+<br />
+<sub>Full-Stack Dev</sub>
+</div>
+<br />
+<a href="https://github.com/abdelrahman-hisham">
+<img src="https://img.shields.io/badge/GitHub-96CEB4?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br />
+<a href="https://linkedin.com/in/abdelrahman-hisham">
+<img src="https://img.shields.io/badge/LinkedIn-96CEB4?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</td>
+
+<td align="center">
+<div style="position: relative;">
+<img src="https://avatars.githubusercontent.com/u/5?v=4" width="120px" style="border-radius: 50%; border: 4px solid #feca57; box-shadow: 0 0 20px rgba(254, 202, 87, 0.5);"/>
+<br />
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="30"/>
+<br />
+<sub><b>🌟 Seif Salah</b></sub>
+<br />
+<sub>Data Analyst</sub>
+</div>
+<br />
+<a href="https://github.com/seif-salah">
+<img src="https://img.shields.io/badge/GitHub-FECA57?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br />
+<a href="https://linkedin.com/in/seif-salah">
+<img src="https://img.shields.io/badge/LinkedIn-FECA57?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</td>
+</tr>
+</table>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Together We Code, Together We Conquer!** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🎉 Thank You for Visiting! 
+
+<img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" width="200"/>
+
+**Made with ❤️ by the ITI Dream Team**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=36BCF7&center=true&width=500&lines=Star+⭐+if+you+love+our+work!;Fork+🍴+to+contribute!;Follow+👀+for+updates!" alt="Typing SVG" />
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer)
+
+</div>
