@@ -43,11 +43,10 @@ This project represents a **revolutionary end-to-end solution** designed to tran
 <div align="center">
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300"/>
 
-🏗️ System Architecture & ERD
-<div align="center">
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300"/>
-Our Multi-Layered Architecture
-mermaidgraph TB
+### Our Multi-Layered Architecture
+
+```mermaid
+graph TB
     A[🌐 Website Interface] --> B[📊 Power BI Dashboards]
     A --> C[🎨 Tableau Visualizations]
     B --> D[📋 SSRS Reports]
@@ -67,8 +66,23 @@ mermaidgraph TB
     style G fill:#54a0ff,stroke:#fff,stroke-width:3px,color:#fff
     style H fill:#5f27cd,stroke:#fff,stroke-width:3px,color:#fff
     style I fill:#00d2d3,stroke:#fff,stroke-width:3px,color:#fff
-🎯 Our Complete Technology Stack
-LayerTechnologyStatusDescription🗺️ ERD DesignLucidchart, Draw.io✅ CompleteEntity Relationship Diagram & Database Design🗺️ MappingSQL Server✅ CompleteTable Relations & Foreign Key Constraints🏗️ Database CreationT-SQL Scripts✅ CompleteFull Database Implementation with 25+ Tables⚙️ Stored ProceduresT-SQL✅ Complete50+ Procedures for CRUD & Business Logic🏢 Data WarehouseSQL Server🔄 In ProgressStar Schema Design & Implementation🔄 SSIS IntegrationSQL Server Integration Services🔄 In ProgressETL Pipelines & Data Migration📋 SSRS ReportsSQL Server Reporting Services🔄 In Progress15+ Professional Reports📊 20+ DashboardsPower BI & Tableau🔄 In ProgressInteractive Business Intelligence📈 Power BIMicrosoft Power BI🔄 In ProgressExecutive & Operational Dashboards🎨 Tableau DesktopTableau🔄 In ProgressAdvanced Data Visualizations🌐 Website InterfaceASP.NET Core / React📋 PlannedModern Web Application
+```
+
+### 🎯 Our Complete Technology Stack
+
+| Layer | Technology | Status | Description |
+|-------|------------|--------|-------------|
+| 🗺️ **ERD Design** | Draw.io | ✅ Complete | Entity Relationship Diagram & Database Design |
+| 🗺️ **Mapping** | SQL Server | ✅ Complete | Table Relations & Foreign Key Constraints |
+| 🏗️ **Database Creation** | T-SQL Scripts | ✅ Complete | Full Database Implementation with 25+ Tables |
+| ⚙️ **Stored Procedures** | T-SQL | ✅ Complete | 70+ Procedures for CRUD & Business Logic |
+| 🏢 **Data Warehouse** | SQL Server | 🔄 In Progress | Star Schema Design & Implementation |
+| 🔄 **SSIS Integration** | SQL Server Integration Services | 🔄 In Progress | ETL Pipelines & Data Migration |
+| 📋 **SSRS Reports** | SQL Server Reporting Services | 🔄 In Progress | 15+ Professional Reports |
+| 📊 **20+ Dashboards** | Power BI & Tableau | 🔄 In Progress | Interactive Business Intelligence |
+| 📈 **Power BI** | Microsoft Power BI | 🔄 In Progress | Executive & Operational Dashboards |
+| 🎨 **Tableau Desktop** | Tableau | 🔄 In Progress | Advanced Data Visualizations |
+| 🌐 **Website Interface** | ASP.NET Core / React | 📋 Planned | Modern Web Application |
 </div>
 
 ---
