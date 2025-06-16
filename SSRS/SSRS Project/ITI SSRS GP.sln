@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "ITI SSRS GP", "ITI SSRS GP.rptproj", "{F7AD1A13-4B62-67A4-C530-EC4931368CB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7AD1A13-4B62-67A4-C530-EC4931368CB6}.Debug|Default.ActiveCfg = Debug
+		{F7AD1A13-4B62-67A4-C530-EC4931368CB6}.Debug|Default.Build.0 = Debug
+		{F7AD1A13-4B62-67A4-C530-EC4931368CB6}.Debug|Default.Deploy.0 = Debug
+		{F7AD1A13-4B62-67A4-C530-EC4931368CB6}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{F7AD1A13-4B62-67A4-C530-EC4931368CB6}.DebugLocal|Default.Build.0 = DebugLocal
+		{F7AD1A13-4B62-67A4-C530-EC4931368CB6}.Release|Default.ActiveCfg = Release
+		{F7AD1A13-4B62-67A4-C530-EC4931368CB6}.Release|Default.Build.0 = Release
+		{F7AD1A13-4B62-67A4-C530-EC4931368CB6}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61E5DFB8-665D-49B4-8C3B-90414D2598D2}
+	EndGlobalSection
+EndGlobal
