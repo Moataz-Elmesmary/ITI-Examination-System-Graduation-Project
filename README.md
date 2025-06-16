@@ -87,7 +87,7 @@ graph TB
 | ⚙️ **Stored Procedures** | T-SQL | ✅ Complete | 70+ Procedures for CRUD & Business Logic |
 | 🏢 **Data Warehouse** | SQL Server | ✅ Complete | Star Schema Design & Implementation |
 | 🔄 **SSIS Integration** | SQL Server Integration Services | ✅ Complete | ETL Pipelines & Data Migration |
-| 📋 **SSRS Reports** | SQL Server Reporting Services | ✅ Complete | 15+ Professional Reports |
+| 📋 **SSRS Reports** | SQL Server Reporting Services | ✅ Complete | 6+ Professional Reports |
 | 📊 **20+ Dashboards** | Power BI & Tableau | 🔄 In Progress | Interactive Business Intelligence |
 | 📈 **Power BI** | Microsoft Power BI | 🔄 In Progress | Executive & Operational Dashboards |
 | 🌐 **Website Interface** | ASP.NET Core / React | 📋 Planned | Modern Web Application |
