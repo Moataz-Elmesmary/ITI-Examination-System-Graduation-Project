@@ -69,10 +69,10 @@ graph TB
 ```
 </div>
 
-# ERD
+## ERD
 ![ERD](https://github.com/user-attachments/assets/fa23c562-9280-4d91-915f-ffa06d998dfe)
 
-# Mapping
+## Mapping
 ![Mapping](https://github.com/user-attachments/assets/7e364a96-3a64-4fb3-9eb2-6aae728fd6c6)
 
 <div align="center">
@@ -130,7 +130,7 @@ Phase 6: Application Dev        ████░░░░░░░░░░░░
 <!-- Moataz Elmesmary -->
 <td align="center">
 <div style="position: relative;">
-<img src="https://github.com/user-attachments/assets/6a71e465-798f-4f07-8df9-aaec157664e6" width="120px" height="120px" style="border-radius: 50%; border: 4px solid #ff6b6b; box-shadow: 0 0 20px rgba(255, 107, 107, 0.5); object-fit: cover; display: block; margin: auto;"/>
+<img src="" width="95px" height="120px" style="border-radius: 50%; border: 4px solid #ff6b6b; box-shadow: 0 0 20px rgba(255, 107, 107, 0.5); object-fit: cover; display: block; margin: auto;"/>
 <br />
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 <br />
