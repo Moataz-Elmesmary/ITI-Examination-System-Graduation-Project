@@ -67,11 +67,16 @@ graph TB
     style H fill:#5f27cd,stroke:#fff,stroke-width:3px,color:#fff
     style I fill:#00d2d3,stroke:#fff,stroke-width:3px,color:#fff
 ```
-![ERD](https://github.com/user-attachments/assets/ee599dfe-b2c9-4b33-ba93-9557afbca334)
+</div>
 
+# ERD
+![ERD](https://github.com/user-attachments/assets/fa23c562-9280-4d91-915f-ffa06d998dfe)
+
+# Mapping
 ![Mapping](https://github.com/user-attachments/assets/7e364a96-3a64-4fb3-9eb2-6aae728fd6c6)
 
-
+<div align="center">
+  
 ### 🎯 Our Complete Technology Stack
 
 | Layer | Technology | Status | Description |
