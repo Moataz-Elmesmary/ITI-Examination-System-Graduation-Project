@@ -118,7 +118,7 @@ Phase 6: Application Dev        ████░░░░░░░░░░░░
 <!-- Moataz Elmesmary -->
 <td align="center">
 <div style="position: relative;">
-<img src="" width="95px" height="120px" style="border-radius: 50%; border: 4px solid #ff6b6b; box-shadow: 0 0 20px rgba(255, 107, 107, 0.5); object-fit: cover; display: block; margin: auto;"/>
+<img src="https://github.com/user-attachments/assets/83a5f4e6-2b2b-42ad-a68c-3676da63103d" width="110px" height="120px" style="border-radius: 50%; border: 4px solid #ff6b6b; box-shadow: 0 0 20px rgba(255, 107, 107, 0.5); object-fit: cover; display: block; margin: auto;"/>
 <br />
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 <br />
@@ -160,7 +160,7 @@ Phase 6: Application Dev        ████░░░░░░░░░░░░
 <!-- Ahmed Mekky -->
 <td align="center">
 <div style="position: relative;">
-<img src="https://avatars.githubusercontent.com/u/3?v=4" width="120px" height="120px" style="border-radius: 50%; border: 4px solid #45b7d1; box-shadow: 0 0 20px rgba(69, 183, 209, 0.5); object-fit: cover; display: block; margin: auto;"/>
+<img src="https://github.com/user-attachments/assets/c9e88966-87c1-4a69-a829-444de84d905b" width="120px" height="120px" style="border-radius: 50%; border: 4px solid #45b7d1; box-shadow: 0 0 20px rgba(69, 183, 209, 0.5); object-fit: cover; display: block; margin: auto;"/>
 <br />
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"/>
 <br />
