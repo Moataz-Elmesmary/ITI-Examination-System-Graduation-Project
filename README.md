@@ -139,7 +139,7 @@ Phase 6: Application Dev        ████░░░░░░░░░░░░
 <!-- Omar Elqersh -->
 <td align="center">
 <div style="position: relative;">
-<img src="https://avatars.githubusercontent.com/u/2?v=4" width="120px" height="120px" style="border-radius: 50%; border: 4px solid #4ecdc4; box-shadow: 0 0 20px rgba(78, 205, 196, 0.5); object-fit: cover; display: block; margin: auto;"/>
+<img src="https://github.com/user-attachments/assets/916132c9-e38e-469b-be8e-cd1ba64302b6" width="120px" height="120px" style="border-radius: 50%; border: 4px solid #4ecdc4; box-shadow: 0 0 20px rgba(78, 205, 196, 0.5); object-fit: cover; display: block; margin: auto;"/>
 <br />
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30"/>
 <br />
@@ -236,7 +236,7 @@ Phase 6: Application Dev        ████░░░░░░░░░░░░
 
 <img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" width="200"/>
 
-**Made with ❤️ by the ITI Dream Team**
+**Made with ❤️**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=36BCF7&center=true&width=500&lines=Star+⭐+if+you+love+our+work!;Fork+🍴+to+contribute!;Follow+👀+for+updates!" alt="Typing SVG" />
 
