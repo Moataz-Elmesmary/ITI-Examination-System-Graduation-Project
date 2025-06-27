@@ -36,6 +36,10 @@
 This project represents a **revolutionary end-to-end solution** designed to transform how the Information Technology Institute (ITI) manages its academic operations. We're not just building a database - we're crafting a complete ecosystem that handles everything from student registration to advanced business intelligence.
 
 ---
+*Would u like to see a sample of our 20+ Dashboards?*
+<img src="https://github.com/user-attachments/assets/6377cd00-2d56-4757-9474-a6daee4a47bf" width="700"/>
+<img src="https://github.com/user-attachments/assets/a132b6fd-5f44-41af-9331-6eab05c1c1ba" width="700"/>
+
 
 ## 🏗️ System Architecture & ERD
 
