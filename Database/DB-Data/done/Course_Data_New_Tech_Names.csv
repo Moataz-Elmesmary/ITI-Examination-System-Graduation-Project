@@ -1,0 +1,101 @@
+Crs_ID,Crs_Name,Crs_Duration,Description
+1,AI Fundamentals,9,Consequuntur labore cupiditate et aliquid unde.
+2,Advanced Python,5,In accusamus at molestias.
+3,Blockchain Basics,8,Voluptates quibusdam occaecati eveniet.
+4,Cloud Computing,4,Harum voluptatem autem.
+5,Cybersecurity Essentials,4,Itaque commodi nesciunt laudantium.
+6,Data Analytics,8,Quasi est reiciendis aliquid nisi ipsam.
+7,DevOps Practices,4,Asperiores sed quos blanditiis.
+8,Edge Computing,8,Rem voluptatibus aspernatur nesciunt.
+9,Ethical Hacking,4,Fugit illum dolorum architecto rerum fugit.
+10,Frontend Development,8,Doloremque unde possimus non quis.
+11,Game Development,8,Nemo sequi tenetur nemo amet quaerat excepturi.
+12,IoT with Arduino,8,Numquam consectetur quas qui dolorem cumque sunt.
+13,JavaScript Mastery,3,Suscipit voluptate minima beatae.
+14,Kubernetes Operations,6,Iure harum ratione ea maxime distinctio.
+15,Linux for Developers,10,Non maiores nobis unde.
+16,Machine Learning,9,Atque alias perferendis soluta porro.
+17,Mobile App Development,3,Quisquam rerum libero beatae eius neque dolorum.
+18,Natural Language Processing,9,Voluptatum autem voluptatem.
+19,Neural Networks,10,Praesentium eaque expedita asperiores explicabo.
+20,Node.js Development,8,Illum atque ducimus voluptatibus.
+21,Quantum Computing,6,Assumenda enim enim omnis id quo.
+22,React Native,3,Odit enim culpa quis veritatis.
+23,Robotics with Raspberry Pi,9,Nam laudantium quia ab fugit eius.
+24,Software Testing,5,Magnam placeat dolor doloremque.
+25,TensorFlow Projects,10,Beatae soluta reiciendis magni.
+26,UI/UX Design,4,Veritatis quod quisquam.
+27,Virtual Reality,8,Magnam quasi ratione.
+28,Vue.js Essentials,8,Quos et nihil minus accusamus.
+29,Web3 Development,6,Distinctio non consequuntur optio quidem quasi.
+30,Xamarin App Dev,9,Ipsa sint saepe occaecati repellendus ratione.
+31,Agile Project Management,7,Odio excepturi eligendi inventore enim.
+32,Big Data with Hadoop,3,Eum aliquam vitae.
+33,CI/CD Pipelines,8,Consequuntur nulla quam perspiciatis.
+34,Computer Vision,8,Ducimus quasi tempora hic at cum.
+35,Django for Web,7,Consequuntur odit totam fugiat.
+36,Elasticsearch Basics,9,Quibusdam harum repellendus eum.
+37,Flutter Framework,6,Quae voluptas facere ipsa nisi ducimus.
+38,Git and GitHub,7,Corporis ullam voluptate ullam itaque ipsam.
+39,HTML5 and CSS3,5,Odit dolore ex beatae esse itaque.
+40,Information Systems,4,Magnam atque nulla sequi vitae.
+41,Jenkins Automation,9,Sequi veritatis blanditiis quibusdam praesentium.
+42,Kotlin for Android,8,In non occaecati sequi est.
+43,Laravel for PHP,5,Quidem quam eum tempora incidunt optio.
+44,Microservices Architecture,7,Cupiditate tempore harum voluptas debitis.
+45,NoSQL Databases,7,Accusamus quae dolor eum quasi excepturi unde.
+46,OpenCV Applications,8,Doloremque inventore beatae.
+47,PostgreSQL Mastery,5,Provident repudiandae aperiam voluptates.
+48,Quantum Algorithms,10,Pariatur voluptatem ipsa.
+49,React.js Deep Dive,5,Incidunt vel culpa sed.
+50,Scala Programming,4,Saepe quis eaque dolores.
+51,Software Architecture,9,Autem similique architecto error magnam.
+52,Spring Boot Projects,10,Ipsum adipisci ut blanditiis laudantium.
+53,Terraform for Cloud,3,Vel voluptas ducimus voluptatem.
+54,Unity Game Dev,6,Beatae dolorem maiores a.
+55,Visual Studio Code Tips,3,Optio porro error deleniti.
+56,Web Animation,4,Autem odio quos praesentium.
+57,XR Development,8,Eius modi perspiciatis quia quia laborum.
+58,YAML for DevOps,4,Eum minus eum debitis.
+59,Zero Trust Security,9,Corrupti quis fugit veniam vel.
+60,Data Warehousing,7,Commodi itaque ut dolores. Sequi ea cum odio at.
+61,Firebase Integration,6,Provident ab quaerat molestiae.
+62,GraphQL APIs,9,Illum pariatur odit corrupti qui.
+63,Hadoop Ecosystem,8,Voluptatem veniam incidunt sit.
+64,Intro to Rust,4,Explicabo ab reiciendis culpa dolores.
+65,Jira for Teams,3,Unde minus assumenda blanditiis officiis beatae.
+66,Kafka Streams,7,Deserunt nam accusamus veritatis.
+67,Lean Software Dev,3,Quae quam ullam perferendis a facere est.
+68,MongoDB Techniques,7,Modi iure autem error laudantium.
+69,Network Security,6,Quasi doloribus non sequi.
+70,Object-Oriented Programming,10,Excepturi aspernatur necessitatibus odit totam.
+71,Python for Finance,7,Hic vero nam dolorem cum esse commodi.
+72,Qiskit for Quantum,4,Maiores quod repellat earum quam est.
+73,RESTful APIs,4,Hic asperiores fuga atque.
+74,Serverless Functions,10,Velit distinctio vitae aspernatur cum dolores.
+75,Testing with Jest,6,Facilis distinctio minus accusamus nemo libero.
+76,Ubuntu Server,7,Veniam quod voluptatum.
+77,Version Control Systems,4,Eligendi necessitatibus maiores soluta provident.
+78,WebSockets in Action,3,Saepe doloremque accusantium.
+79,XML for Data,9,Ipsam officiis alias rerum quam.
+80,Yarn Package Manager,6,Distinctio laborum assumenda enim atque.
+81,Zephyr for IoT,7,Nam voluptates itaque temporibus hic.
+82,AR Development,4,Quo ducimus ad.
+83,Bash Scripting,5,Ducimus voluptas rem optio sint amet.
+84,Cloud Storage Solutions,10,Architecto odio beatae deleniti totam quos.
+85,Database Design,9,Ducimus nisi doloribus quae quasi.
+86,Express.js Framework,10,Optio quaerat consequuntur inventore.
+87,Functional Programming,6,Dolorem atque ab deserunt nisi.
+88,Go Language Basics,9,Perspiciatis quaerat voluptatibus aut.
+89,Hybrid App Dev,9,Voluptatibus necessitatibus officia corporis.
+90,Infrastructure as Code,10,Omnis animi vel consequatur.
+91,Java EE,5,Amet ullam magni tempora recusandae veniam.
+92,Keras Deep Learning,9,Ad ut tempora recusandae.
+93,Load Balancing,7,Perspiciatis ad recusandae.
+94,Multithreading in Java,7,Officia corrupti laudantium similique facere.
+95,NLP with SpaCy,3,Totam quia praesentium consequatur.
+96,OpenStack Intro,10,In dolorem incidunt eum.
+97,Penetration Testing,9,Corrupti non aliquid.
+98,Quantum ML,4,Quos iusto ipsa minus quibusdam et optio.
+99,Redux in React,6,Sint veniam ratione accusamus.
+100,Swift for iOS,10,Sapiente accusamus cum ab ad.
