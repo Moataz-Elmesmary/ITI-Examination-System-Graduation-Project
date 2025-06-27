@@ -38,10 +38,11 @@ This project represents a **revolutionary end-to-end solution** designed to tran
 ---
 <div align="center">
   
-*Would u like to see a sample of our 20+ Dashboards?*
-  
-<img src="https://github.com/user-attachments/assets/6377cd00-2d56-4757-9474-a6daee4a47bf" width="700"/>
-<img src="https://github.com/user-attachments/assets/a132b6fd-5f44-41af-9331-6eab05c1c1ba" width="700"/>
+*Wanna see a sample of our 20+ Dashboards?*
+
+<img src="https://github.com/user-attachments/assets/019555ae-889e-4f86-b550-0a05ca2ab9e1" width="700"/>
+<img src="https://github.com/user-attachments/assets/6d4b89e5-038e-412a-acdf-c1096a59c510" width="700"/>
+
 </div>
 
 
