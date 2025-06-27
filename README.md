@@ -36,6 +36,15 @@
 This project represents a **revolutionary end-to-end solution** designed to transform how the Information Technology Institute (ITI) manages its academic operations. We're not just building a database - we're crafting a complete ecosystem that handles everything from student registration to advanced business intelligence.
 
 ---
+<div align="center">
+  
+*Wanna see a sample of our 20+ Dashboards?*
+
+<img src="https://github.com/user-attachments/assets/019555ae-889e-4f86-b550-0a05ca2ab9e1" width="700"/>
+<img src="https://github.com/user-attachments/assets/6d4b89e5-038e-412a-acdf-c1096a59c510" width="700"/>
+
+</div>
+
 
 ## 🏗️ System Architecture & ERD
 
@@ -74,7 +83,8 @@ graph TB
 ## Mapping
 ![Mapping](https://github.com/user-attachments/assets/7e364a96-3a64-4fb3-9eb2-6aae728fd6c6)
 
-<h2> SSIS </h2> <u>sample for fact table:</u>
+<h2> SSIS </h2> <u> A sample for the Fact Table:</u>
+
 
 ![Fact Table Over all Mapping1](https://github.com/user-attachments/assets/05cad00a-4469-4cb4-abd0-971ae1319e82)
 
