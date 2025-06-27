@@ -74,8 +74,14 @@ graph TB
 ## Mapping
 ![Mapping](https://github.com/user-attachments/assets/7e364a96-3a64-4fb3-9eb2-6aae728fd6c6)
 
+## SSIS sample:
+![Fact Table Over all Mapping1](https://github.com/user-attachments/assets/05cad00a-4469-4cb4-abd0-971ae1319e82)
+
 ## DWH
 ![DWH DimModeling](https://github.com/user-attachments/assets/b86d288f-611d-45e1-9676-f4cb2b12efd4)
+
+
+
 
 
 <div align="center">
