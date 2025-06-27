@@ -148,7 +148,7 @@ Phase 6: Application Dev        ████░░░░░░░░░░░░
 <sub>BI Dev & Data Analyst</sub>
 </div>
 <br />
-<a href="https://github.com/omar-elqersh">
+<a href="https://github.com/OMARELQERSH">
 <img src="https://img.shields.io/badge/GitHub-4ECDC4?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <br />
