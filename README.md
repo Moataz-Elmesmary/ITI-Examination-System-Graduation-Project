@@ -128,9 +128,9 @@ Phase 5: BI & Reporting         ████████████████
 Phase 6: Application Dev        ████████████████████ 100% ✅
 ```
 ## APP
-<img src="https://github.com/user-attachments/assets/e259bc85-ff34-48f6-a196-ac25f0382d0f" width="280" /></br>
-<img src="https://github.com/user-attachments/assets/3100805d-15bf-4775-9857-9f1698397f46" width="280" /></br>
-<img src="https://github.com/user-attachments/assets/d0e06e7e-20be-4b0f-9088-c570630bce46" width="280" />
+<img src="https://github.com/user-attachments/assets/e259bc85-ff34-48f6-a196-ac25f0382d0f" width="500" /></br>
+<img src="https://github.com/user-attachments/assets/3100805d-15bf-4775-9857-9f1698397f46" width="500" /></br>
+<img src="https://github.com/user-attachments/assets/d0e06e7e-20be-4b0f-9088-c570630bce46" width="500" />
 
 
 ## 🌟 Meet Our Legendary Team
